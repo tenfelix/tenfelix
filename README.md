@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tenfelix/tenfelix/main/felix.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/tenfelix/tenfelix/main/banner.gif" width="600"/>
 </div>
 
 # Ei 🍹 🗿, Olá
