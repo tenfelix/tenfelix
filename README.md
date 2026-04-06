@@ -2,22 +2,23 @@
   <img src="https://raw.githubusercontent.com/tenfelix/tenfelix/main/banner.gif" width="800"/>
 </div>
 
-# Ei 🍹 🗿, Olá
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Java+Developer;Reverse+Engineer;Back-end+Architect;Computer+Wizard+%F0%9F%A7%99" alt="Typing SVG" />
+# 🍹Não é nada pessoal. São apenas negócios! 🗿
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Reverse+Engineer;Java+Developer;Back-end+Architect;Computer+Wizard" alt="Typing SVG" />
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2"/>
 
 ## 🧠 Sobre mim
 
-- 🧙 Mago dos Computadores.
-- 💻 Desenvolvedor Java.
+- ⚡ Feiticeiro das Máquinas.
+- 💻 Engenheiro Java.
 - 🌐 Arquiteto de back-end com experiência em Spring Boot, trabalhando principalmente com MVC, Segurança, Nuvem, Kafka e Data JPA.
-- 🔐 Entusiasta de criptografia e matemática computacional.
-- ❎ Meu hobby é fazer engenharia reversa de coisas que normalmente não tenho permissão para acessar e trazer sistemas antigos de volta à vida.
-- 🐛 Criando bugs desde 2012 (e corrigindo alguns também... Ou não)
+- 🛡️ Apaixonado por criptografia e matemática computacional.
+- 🔍 Meu passatempo é Ler
 
 ---
 
@@ -57,9 +58,11 @@
 
 <div align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=p15c1n4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=ffffff)
+![](https://komarev.com/ghpvc/?username=tenfelix&color=00bfff&style=for-the-badge&label=VISITAS+NO+PERFIL)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=p15c1n4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=ffffff)
+![](https://img.shields.io/badge/Commits%202026-10-00bfff?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/Linguagem%20Principal-Java-ED8B00?style=for-the-badge&logo=openjdk)
+![](https://img.shields.io/badge/Contribuições-5-blueviolet?style=for-the-badge&logo=github)
 
 </div>
 
@@ -69,12 +72,8 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Piscina-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord Presence](https://lanyard.cnrad.dev/api/felix_el_patron_15337)](https://discord.com/users/SEU_ID_DO_DISCORD)
 
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=p15c1n4&color=00bfff&style=flat-square&label=Visitas+no+perfil" />
-</div>
