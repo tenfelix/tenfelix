@@ -1,56 +1,99 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tenfelix/tenfelix/main/banner.gif" width="800"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tenfelix/tenfelix/main/banner.gif" width="800" height="500" alt="coding gif" />
+</p>
 
 <div align="center">
-
+  
 # 🍹Não é nada pessoal. São apenas negócios! 🗿
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Reverse+Engineer;Java+Developer;Back-end+Architect;Computer+Wizard" alt="Typing SVG" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Reverse+Engineer;&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=30" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
+</div>
 
-## 🧠 Sobre mim
+### 🧠 Sobre mim
 
 - ⚡ Feiticeiro das Máquinas.
-- 💻 Engenheiro Java.
+- 🖥️ Engenheiro Java.
 - 🌐 Arquiteto de back-end com experiência em Spring Boot, trabalhando principalmente com MVC, Segurança, Nuvem, Kafka e Data JPA.
-- 🛡️ Apaixonado por criptografia e matemática computacional.
-- 🔍 Meu passatempo é Ler
+- 🛡️ Criptografia e matemática computacional.
+- 🔍 Meu passatempo é Ler.
 
 ---
 
-## 🧰 Conjunto de tecnologias
+### 🧰 Conjunto de tecnologias
 
 <div align="center">
+<table>
+<tr>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Netty](https://img.shields.io/badge/Netty-000000?style=for-the-badge&logo=netty&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45"/><br>Java
+</td>
 
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="45"/><br>Spring
+</td>
+
+<td align="center">
+<img src="https://avatars.githubusercontent.com/u/473791" height="45"/><br>Netty
+</td>
+
+<td align="center">
+<img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" height="45"/><br>Assembly
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45"/><br>Python
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="45"/><br>Bash
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45"/><br>HTML5
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45"/><br>CSS3
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45"/><br>JS
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" height="45"/><br>MariaDB
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45"/><br>MySQL
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45"/><br>SQL Server
+</td>
+
+</tr>
+</table>
 </div>
 
 ---
 
-## 💻 IDEs
+### 💻 IDEs
 
-<div align="center">
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-0A0A0A?style=for-the-badge&logo=intellijidea&logoColor=00eaff"/>
+  <img src="https://img.shields.io/badge/Notepad++-0A0A0A?style=for-the-badge&logo=notepadplusplus&logoColor=7f5af0"/>
+</p>
 
 ---
 
@@ -68,12 +111,11 @@
 
 ---
 
-## 📬 Entre em contato comigo
+### 📫 Entre em contato comigo
 
-<div align="center">
+[![Discord Badge](https://img.shields.io/badge/Discord-felix__el__patron__15337-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/felix_el_patron_15337)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/felix_el_patron_15337)](https://discord.com/users/SEU_ID_DO_DISCORD)
-
-</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1412885859685896313?hideActivity=true&showDisplayName=true&hideSpotify=true&theme=dark)](https://discord.com/users/1412885859685896313)
 
 ---
+
