@@ -17,7 +17,7 @@
 ### 🧠 Sobre mim
 
 - ⚡ Feiticeiro das Máquinas.
-- 🖥️ Engenheiro Java.
+- 🖥️ Desenvolvedor Java.
 - 🌐 Arquiteto de back-end com experiência em Spring Boot, trabalhando principalmente com MVC, Segurança, Nuvem, Kafka e Data JPA.
 - 🛡️ Criptografia e matemática computacional.
 - 🔍 Meu passatempo é Ler.
