@@ -17,10 +17,10 @@
 ### 🧠 Sobre mim
 
 - ⚡ Feiticeiro das Máquinas.
-- 🖥️ Desenvolvedor Java.
-- 🌐 Arquiteto de back-end com experiência em Spring Boot, trabalhando principalmente com MVC, Segurança, Nuvem, Kafka e Data JPA.
-- 🛡️ Criptografia e matemática computacional.
-- 🔍 Meu passatempo é Ler.
+- 🖥️ Desenvolvedor JavaScript.
+- 🌐 Desenvolvedor FullStack com foco em JavaScript, Node.js, APIs, arquitetura de software e desenvolvimento back-end.
+- 🛡️ Segurança, criptografia e engenharia reversa.
+- 🔍 Meu passatempo é ler.
 
 ---
 
