@@ -107,7 +107,7 @@
 ![](https://komarev.com/ghpvc/?username=tenfelix&color=00bfff&style=for-the-badge&label=VISITAS+NO+PERFIL)
 
 ![](https://img.shields.io/badge/Commits%202026-10-00bfff?style=for-the-badge&logo=github)
-![](https://img.shields.io/badge/Linguagem%20Principal-Java-ED8B00?style=for-the-badge&logo=openjdk)
+![](https://img.shields.io/badge/Linguagem%20Principal-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![](https://img.shields.io/badge/Contribuições-5-blueviolet?style=for-the-badge&logo=github)
 
 </div>
