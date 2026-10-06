@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Reverse+Engineer;&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=30" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=JavaScript+Developer;Reverse+Engineer;&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=30" />
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 </div>
 
