@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tenfelix/tenfelix/main/banner.gif" width="800" height="500" alt="coding gif" />
+  <img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=gradient&section=footer&reversal=false&text=Matheus+Felix&textBg=false&fontColor=black&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=4879&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" />
 </p>
 
 <div align="center">
