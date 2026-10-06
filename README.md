@@ -92,9 +92,11 @@
 ### 💻 IDEs
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-0A0A0A?style=for-the-badge&logo=intellijidea&logoColor=00eaff"/>
+  <img src="https://img.shields.io/badge/WebStorm-0A0A0A?style=for-the-badge&logo=webstorm&logoColor=00eaff"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
   <img src="https://img.shields.io/badge/Notepad++-0A0A0A?style=for-the-badge&logo=notepadplusplus&logoColor=7f5af0"/>
 </p>
+
 
 ---
 
