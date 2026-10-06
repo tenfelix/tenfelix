@@ -31,19 +31,19 @@
 <tr>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45"/><br>Java
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45"/><br>JavaScript
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="45"/><br>Spring
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="45"/><br>TypeScript
 </td>
 
 <td align="center">
-<img src="https://avatars.githubusercontent.com/u/473791" height="45"/><br>Netty
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="45"/><br>Node.js
 </td>
 
 <td align="center">
-<img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" height="45"/><br>Assembly
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="45"/><br>React
 </td>
 
 <td align="center">
@@ -57,6 +57,7 @@
 </tr>
 
 <tr>
+
 
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45"/><br>HTML5
